@@ -3,7 +3,7 @@
 trying to make a conflict
 more changes
 
-writing something here;
+writing something here
 
 
 I resolved the conflict!
