@@ -7,3 +7,5 @@ writing something here;
 
 
 I resolved the conflict!
+
+Second step!
