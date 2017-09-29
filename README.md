@@ -7,3 +7,4 @@ writing something here;
 
 
 I resolved the conflict!
+Some text here!
