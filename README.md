@@ -12,4 +12,5 @@ I resolved the conflict!
 Second step!
 
 Some text here!
+New changes!
 
